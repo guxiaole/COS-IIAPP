@@ -1,0 +1,108 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Com1_MBOX	.\app.c	/^ OS_EVENT* Com1_MBOX;$/;"	v
+OS_APP_HOOKS_EN	.\os_cfg.h	29;"	d
+OS_ARG_CHK_EN	.\os_cfg.h	30;"	d
+OS_CFG_H	.\os_cfg.h	26;"	d
+OS_CPU_HOOKS_EN	.\os_cfg.h	31;"	d
+OS_DEBUG_EN	.\os_cfg.h	33;"	d
+OS_EVENT_MULTI_EN	.\os_cfg.h	34;"	d
+OS_EVENT_NAME_SIZE	.\os_cfg.h	36;"	d
+OS_FLAGS_NBITS	.\os_cfg.h	78;"	d
+OS_FLAG_ACCEPT_EN	.\os_cfg.h	75;"	d
+OS_FLAG_DEL_EN	.\os_cfg.h	76;"	d
+OS_FLAG_EN	.\os_cfg.h	74;"	d
+OS_FLAG_NAME_SIZE	.\os_cfg.h	77;"	d
+OS_FLAG_QUERY_EN	.\os_cfg.h	79;"	d
+OS_FLAG_WAIT_CLR_EN	.\os_cfg.h	80;"	d
+OS_LOWEST_PRIO	.\os_cfg.h	38;"	d
+OS_MAX_EVENTS	.\os_cfg.h	41;"	d
+OS_MAX_FLAGS	.\os_cfg.h	42;"	d
+OS_MAX_MEM_PART	.\os_cfg.h	43;"	d
+OS_MAX_QS	.\os_cfg.h	44;"	d
+OS_MAX_TASKS	.\os_cfg.h	45;"	d
+OS_MBOX_ACCEPT_EN	.\os_cfg.h	85;"	d
+OS_MBOX_DEL_EN	.\os_cfg.h	86;"	d
+OS_MBOX_EN	.\os_cfg.h	84;"	d
+OS_MBOX_PEND_ABORT_EN	.\os_cfg.h	87;"	d
+OS_MBOX_POST_EN	.\os_cfg.h	88;"	d
+OS_MBOX_POST_OPT_EN	.\os_cfg.h	89;"	d
+OS_MBOX_QUERY_EN	.\os_cfg.h	90;"	d
+OS_MEM_EN	.\os_cfg.h	94;"	d
+OS_MEM_NAME_SIZE	.\os_cfg.h	95;"	d
+OS_MEM_QUERY_EN	.\os_cfg.h	96;"	d
+OS_MUTEX_ACCEPT_EN	.\os_cfg.h	101;"	d
+OS_MUTEX_DEL_EN	.\os_cfg.h	102;"	d
+OS_MUTEX_EN	.\os_cfg.h	100;"	d
+OS_MUTEX_QUERY_EN	.\os_cfg.h	103;"	d
+OS_Q_ACCEPT_EN	.\os_cfg.h	108;"	d
+OS_Q_DEL_EN	.\os_cfg.h	109;"	d
+OS_Q_EN	.\os_cfg.h	107;"	d
+OS_Q_FLUSH_EN	.\os_cfg.h	110;"	d
+OS_Q_PEND_ABORT_EN	.\os_cfg.h	111;"	d
+OS_Q_POST_EN	.\os_cfg.h	112;"	d
+OS_Q_POST_FRONT_EN	.\os_cfg.h	113;"	d
+OS_Q_POST_OPT_EN	.\os_cfg.h	114;"	d
+OS_Q_QUERY_EN	.\os_cfg.h	115;"	d
+OS_SCHED_LOCK_EN	.\os_cfg.h	47;"	d
+OS_SEM_ACCEPT_EN	.\os_cfg.h	120;"	d
+OS_SEM_DEL_EN	.\os_cfg.h	121;"	d
+OS_SEM_EN	.\os_cfg.h	119;"	d
+OS_SEM_PEND_ABORT_EN	.\os_cfg.h	122;"	d
+OS_SEM_QUERY_EN	.\os_cfg.h	123;"	d
+OS_SEM_SET_EN	.\os_cfg.h	124;"	d
+OS_TASK_CHANGE_PRIO_EN	.\os_cfg.h	60;"	d
+OS_TASK_CREATE_EN	.\os_cfg.h	61;"	d
+OS_TASK_CREATE_EXT_EN	.\os_cfg.h	62;"	d
+OS_TASK_DEL_EN	.\os_cfg.h	63;"	d
+OS_TASK_IDLE_STK_SIZE	.\os_cfg.h	56;"	d
+OS_TASK_NAME_SIZE	.\os_cfg.h	64;"	d
+OS_TASK_PROFILE_EN	.\os_cfg.h	65;"	d
+OS_TASK_QUERY_EN	.\os_cfg.h	66;"	d
+OS_TASK_STAT_EN	.\os_cfg.h	67;"	d
+OS_TASK_STAT_STK_CHK_EN	.\os_cfg.h	68;"	d
+OS_TASK_STAT_STK_SIZE	.\os_cfg.h	55;"	d
+OS_TASK_SUSPEND_EN	.\os_cfg.h	69;"	d
+OS_TASK_SW_HOOK_EN	.\os_cfg.h	70;"	d
+OS_TASK_TMR_STK_SIZE	.\os_cfg.h	54;"	d
+OS_TICKS_PER_SEC	.\os_cfg.h	50;"	d
+OS_TICK_STEP_EN	.\os_cfg.h	49;"	d
+OS_TIME_DLY_HMSM_EN	.\os_cfg.h	128;"	d
+OS_TIME_DLY_RESUME_EN	.\os_cfg.h	129;"	d
+OS_TIME_GET_SET_EN	.\os_cfg.h	130;"	d
+OS_TIME_TICK_HOOK_EN	.\os_cfg.h	131;"	d
+OS_TMR_CFG_MAX	.\os_cfg.h	136;"	d
+OS_TMR_CFG_NAME_SIZE	.\os_cfg.h	137;"	d
+OS_TMR_CFG_TICKS_PER_SEC	.\os_cfg.h	139;"	d
+OS_TMR_CFG_WHEEL_SIZE	.\os_cfg.h	138;"	d
+OS_TMR_EN	.\os_cfg.h	135;"	d
+STARTUP_TASK_PRIO	.\app_cfg.h	16;"	d
+STARTUP_TASK_STK_SIZE	.\app_cfg.h	22;"	d
+TASK_COM_STK_SIZE	.\app_cfg.h	26;"	d
+TASK_Com_PRIO	.\app_cfg.h	20;"	d
+TASK_LED2_PRIO	.\app_cfg.h	17;"	d
+TASK_LED2_STK_SIZE	.\app_cfg.h	23;"	d
+TASK_LED3_PRIO	.\app_cfg.h	18;"	d
+TASK_LED3_STK_SIZE	.\app_cfg.h	24;"	d
+TASK_Serial_PRIO	.\app_cfg.h	19;"	d
+TASK_Serial_STK_SIZE	.\app_cfg.h	25;"	d
+Task_Com	.\app.c	/^void Task_Com(void *p_arg)$/;"	f	signature:(void *p_arg)
+Task_Com	.\app.h	/^void Task_Com(void *p_arg);$/;"	p	signature:(void *p_arg)
+Task_LED2	.\app.c	/^ void Task_LED2(void *p_arg)    $/;"	f	signature:(void *p_arg)
+Task_LED2	.\app.h	/^void Task_LED2(void *p_arg);    $/;"	p	signature:(void *p_arg)
+Task_LED3	.\app.c	/^ void Task_LED3(void *p_arg)    $/;"	f	signature:(void *p_arg)
+Task_LED3	.\app.h	/^void Task_LED3(void *p_arg);    $/;"	p	signature:(void *p_arg)
+Task_Serial	.\app.c	/^static  void Task_Serial(void *p_arg)$/;"	f	file:	signature:(void *p_arg)
+Task_Serial	.\app.h	/^void Task_Serial(void *p_arg);$/;"	p	signature:(void *p_arg)
+Task_Start	.\app.c	/^void Task_Start(void *p_arg)    $/;"	f	signature:(void *p_arg)
+Task_Start	.\app.h	/^void Task_Start(void *p_arg);    $/;"	p	signature:(void *p_arg)
+_APP_H_	.\app.h	10;"	d
+__APP_CFG_H__	.\app_cfg.h	12;"	d
+task_Serial_stk	.\app.c	/^OS_STK task_Serial_stk[TASK_Serial_STK_SIZE];$/;"	v
+task_com_stk	.\app.c	/^OS_STK task_com_stk[TASK_COM_STK_SIZE];$/;"	v
+task_led2_stk	.\app.c	/^OS_STK task_led2_stk[TASK_LED2_STK_SIZE];         \/\/定义栈    $/;"	v
+task_led3_stk	.\app.c	/^OS_STK task_led3_stk[TASK_LED3_STK_SIZE];         \/\/定义栈    $/;"	v
