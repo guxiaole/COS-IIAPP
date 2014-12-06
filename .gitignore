@@ -17,7 +17,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#vim
+# vim
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
