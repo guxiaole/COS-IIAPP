@@ -1,0 +1,111 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\guixiaole\×ÀÃæ\STM32-Template\USER\LED.uvproj
+Project File Date:  01/12/2014
+
+<h2>Output:</h2>
+Clean started: Project: 'LED'
+   deleting intermediate output files for target 'LED'
+compiling main.c...
+led.h(15): error:  #79: expected a type specifier
+led.h(15): error:  #79: expected a type specifier
+led.h(15): warning:  #77-D: this declaration has no storage class or type specifier
+led.h(15): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 357 of "..\FWlib\inc\stm32f10x_gpio.h")
+led.h(15): error:  #7: unrecognized token
+led.h(15): error:  #169: expected a declaration
+led.h(16): error:  #7: unrecognized token
+led.h(20): warning:  #12-D: parsing restarts here after previous syntax error
+led.h(20): error:  #7: unrecognized token
+led.h(20): error:  #169: expected a declaration
+led.h(21): error:  #7: unrecognized token
+led.h(25): warning:  #12-D: parsing restarts here after previous syntax error
+led.h(25): error:  #7: unrecognized token
+led.h(25): error:  #169: expected a declaration
+led.h(26): error:  #7: unrecognized token
+led.h(29): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(24): warning:  #223-D: function "LED_GPIO_Config" declared implicitly
+main.c(28): error:  #7: unrecognized token
+main.c(28): error:  #29: expected an expression
+main.c(30): error:  #7: unrecognized token
+main.c(30): error:  #29: expected an expression
+main.c(32): error:  #7: unrecognized token
+main.c(32): error:  #29: expected an expression
+main.c(34): error:  #7: unrecognized token
+main.c(34): error:  #29: expected an expression
+main.c(36): error:  #7: unrecognized token
+main.c(36): error:  #29: expected an expression
+main.c(38): error:  #7: unrecognized token
+main.c(38): error:  #29: expected an expression
+main.c - 24 Error(s), 5 Warning(s).
+compiling main.c...
+led.h(15): error:  #79: expected a type specifier
+led.h(15): error:  #79: expected a type specifier
+led.h(15): warning:  #77-D: this declaration has no storage class or type specifier
+led.h(15): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 357 of "..\FWlib\inc\stm32f10x_gpio.h")
+led.h(15): error:  #7: unrecognized token
+led.h(15): error:  #169: expected a declaration
+led.h(16): error:  #7: unrecognized token
+led.h(20): warning:  #12-D: parsing restarts here after previous syntax error
+led.h(20): error:  #7: unrecognized token
+led.h(20): error:  #169: expected a declaration
+led.h(21): error:  #7: unrecognized token
+led.h(25): warning:  #12-D: parsing restarts here after previous syntax error
+led.h(25): error:  #7: unrecognized token
+led.h(25): error:  #169: expected a declaration
+led.h(26): error:  #7: unrecognized token
+led.h(29): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(24): warning:  #223-D: function "LED_GPIO_Config" declared implicitly
+main.c(28): error:  #7: unrecognized token
+main.c(28): error:  #29: expected an expression
+main.c(30): error:  #7: unrecognized token
+main.c(30): error:  #29: expected an expression
+main.c(32): error:  #7: unrecognized token
+main.c(32): error:  #29: expected an expression
+main.c(34): error:  #7: unrecognized token
+main.c(34): error:  #29: expected an expression
+main.c(36): error:  #7: unrecognized token
+main.c(36): error:  #29: expected an expression
+main.c(38): error:  #7: unrecognized token
+main.c(38): error:  #29: expected an expression
+main.c - 24 Error(s), 5 Warning(s).
+compiling led.c...
+led.c - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c(28): warning:  #223-D: function "LED1" declared implicitly
+main.c(32): warning:  #223-D: function "LED2" declared implicitly
+main.c(36): warning:  #223-D: function "LED3" declared implicitly
+main.c - 0 Error(s), 3 Warning(s).
+compiling main.c...
+main.c(43): error:  #65: expected a ";"
+main.c - 1 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED'
+assembling startup_stm32f10x_hd.s...
+compiling stm32f10x_it.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=2728 RO-data=336 RW-data=40 ZI-data=1632  
+FromELF: creating hex file...
+"..\OUTput\led.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED'
+compiling led.c...
+linking...
+Program Size: Code=2728 RO-data=336 RW-data=40 ZI-data=1632  
+FromELF: creating hex file...
+"..\OUTput\led.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED'
+linking...
+Program Size: Code=2796 RO-data=336 RW-data=40 ZI-data=1632  
+FromELF: creating hex file...
+"..\OUTput\led.axf" - 0 Error(s), 0 Warning(s).

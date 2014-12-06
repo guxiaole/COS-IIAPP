@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\STUDY\COS-IIAPP\STM32+Serial\USER\LED.uvproj
+Project File Date:  09/08/2014
+
+<h2>Output:</h2>
+compiling app.c...
+..\BSP\BSP.h(6): warning:  #1-D: last line of file ends without a newline
+..\APP\app.c(91): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+..\APP\app.c(96): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+..\APP\app.c(102): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+..\APP\app.c - 0 Error(s), 4 Warning(s).
